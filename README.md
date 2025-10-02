@@ -1,4 +1,4 @@
-#Gesture Alchemy - Sign Language Translator 🤟
+# Gesture Alchemy - Sign Language Translator 🤟
 
 A real-time, speech-to-sign language desktop application that helps bridge the communication gap for the hearing-impaired community. Speak into your microphone, and watch the words translate into visual sign language gestures!
 🌟 Key Features
